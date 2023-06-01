@@ -1,0 +1,25 @@
+pp {
+	  text-align: center;
+	    margin-top: 100px;
+    }
+
+    h1 {
+	      color: #333;
+      }
+
+      p {
+	        color: #666;
+	}
+
+	ul {
+		  list-style-type: disc; /* Use 'disc' for filled bullets or 'circle' for hollow bullets */
+		    padding-left: 20px; /* Adjust the padding as needed */
+		      text-align: left;
+	      }
+
+	      li {
+		        margin-bottom: 10px;
+		}
+
+		/* Add more styles as needed to make the UI attractive */
+		
